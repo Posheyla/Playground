@@ -1,0 +1,15 @@
+.titulo{
+    text-align: center;
+}
+.cuadro{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin: 0px 20px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px;
+}
